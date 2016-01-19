@@ -1,1 +1,1 @@
-特定のキーワードに紐づく記事がesaにあるか探す
+esa-bot for Slack
