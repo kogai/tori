@@ -5,7 +5,7 @@ import { toriProxy } from 'utils/toriProxy.js';
 
 import { search } from 'controllers/search.js';
 
-const SLACK_TOKEN = process.env.CIBOT_SLACK_TOKEN;
+const SLACK_TOKEN = process.env.ESABOT_SLACK_TOKEN;
 
 
 export function run() {

@@ -1,8 +1,8 @@
 {
-  "name": "nippoh",
+  "name": "tori",
   "version": "1.0.0",
   "description": "esaとslackをつなぐbot",
-  "main": "tori.js",
+  "main": "bin/tori",
   "scripts": {
     "start": "node bin/tori",
     "test": "echo \"Error: no test specified\" && exit 1"
